@@ -1,6 +1,6 @@
 # Financial Report
 
-![Financial-Report](financial-planner.png)
+![Financial_Report](Images/financial-planner.png)
 
 ## Budget Analysis
 
