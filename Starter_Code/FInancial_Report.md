@@ -35,13 +35,3 @@ This portfolio's cumulative returns will fall within these bounds (Assuming a 90
 
 ![histogram](Images/histogram.png)
 
-
-Cumulative Returns
-
-![projected-returns](Images/projected-returns.png)
-
-The expected portfolio returns in 30 years broken down into the 10th, 50th or 90th percentile would be:
-
-10th percentile => $710,859.31
-50th percentile => $1,166,943.81
-90th percentile => $1,812,723.93
